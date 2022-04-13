@@ -2,6 +2,10 @@
 
 Easier way to switch your kubernetes context
 
+## Set PATH
+
+Download executable from release for your OS add it to PATH
+
 ## Example
 
 ```cmd
